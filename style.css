@@ -1,0 +1,18 @@
+ 
+ #heading one{
+    background-color: rgb(196, 137, 137);
+    color: rgb(218, 31, 31); 
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.four{
+    background-color: white;
+    color: rgb(241, 241, 159);
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.six{
+    text-align: justify;
+    background-color: rgb(224, 218, 159);
+    color: green;
+} 
